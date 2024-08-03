@@ -50,6 +50,24 @@
                 </messages>
                 <updatedAt value="2024-07-26T11:25:34.678664" />
               </chat>
+              <chat>
+                <internalId value="d0cbabc5-5971-443b-b19b-ee2dda319c9c" />
+              </chat>
+              <chat>
+                <internalId value="469c34d3-33f5-49bf-8635-fbb57a7504d7" />
+              </chat>
+              <chat>
+                <internalId value="0698483b-ad55-4bee-a9b9-66a65a195b48" />
+              </chat>
+              <chat>
+                <internalId value="87406936-b61a-4bd5-b71e-69316ebb3eec" />
+              </chat>
+              <chat>
+                <internalId value="7917fbb1-c674-4605-a2f6-30b2f0e4c846" />
+              </chat>
+              <chat>
+                <internalId value="fb401ecf-7880-4b13-8266-782701ea3624" />
+              </chat>
             </list>
           </chats>
         </AccountData>
