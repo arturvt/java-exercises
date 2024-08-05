@@ -4,8 +4,6 @@ public class BasicCases {
     /**
      * It returns the sum of the numbers given.
      * For example: number 29. The sum is 11
-     * @param number
-     * @return
      */
     static int sumDigits(int number) {
         String asString = String.valueOf(number);
@@ -14,6 +12,7 @@ public class BasicCases {
         for(char charNumber:numbers) {
             sum+= charNumber - '0';
         }
+
         return sum;
     }
 

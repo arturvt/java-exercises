@@ -16,6 +16,7 @@ class SumDigitsTest {
     @Test
     void test_largestNumberWithNDigits() {
         assertEquals(99, BasicCases.returnsLargestNumberWithNDigits(2));
+        assertEquals(999, BasicCases.returnsLargestNumberWithNDigits(3));
     }
 
 }
